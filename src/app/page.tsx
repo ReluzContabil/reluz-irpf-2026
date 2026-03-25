@@ -32,7 +32,7 @@ export default function IRPF() {
           
           <div className="flex justify-center md:col-start-2 order-1 md:order-none">
             <div className="relative top-3 w-32 h-12 md:w-56 md:h-20 transition-transform duration-300 hover:scale-110">
-              <Image src="/logo_reluz.png" alt="Logo Reluz" fill className="object-contain" priority />
+              <Image src="/logo_contabil.png" alt="Logo Reluz" fill className="object-contain" priority />
             </div>
           </div>
 
