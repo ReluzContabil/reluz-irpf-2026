@@ -32,7 +32,7 @@ export default function IRPF() {
           
           <div className="flex justify-center md:col-start-2 order-1 md:order-none">
             <div className="relative top-3 w-32 h-12 md:w-56 md:h-20 transition-transform duration-300 hover:scale-110">
-              <Image src="/logo_reluz.png" alt="Logo Reluz" fill className="object-contain" priority />
+              <Image src="/reluz-irpf-2026/logo_reluz.png" alt="Logo Reluz" fill className="object-contain" priority />
             </div>
           </div>
 
@@ -54,7 +54,7 @@ export default function IRPF() {
 
             <div className="flex justify-end md:col-start-3 md:row-start-1">
               <a 
-                href="/guia_irpf_2026.pdf" 
+                href="/reluz-irpf-2026/guia_irpf_2026.pdf" 
                 download="Guia_IRPF_2026_Reluz.pdf"
                 className="flex items-center gap-1.5 md:gap-2 bg-gradient-to-r from-[#b49444] to-[#8a7131] text-white px-3 py-2 sm:px-4 md:px-6 md:py-3 rounded-full font-bold text-[10px] sm:text-xs md:text-sm transition-all duration-300 hover:scale-105 active:scale-95 border border-[#e8d399]/30 whitespace-nowrap shadow-md w-full justify-center md:w-auto md:justify-end"
               >
